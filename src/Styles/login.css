@@ -1,0 +1,48 @@
+body{
+    background: url('../../public/Imagens/imagem.jpg');
+    background-size: cover;
+}
+
+.lgn-centro{
+    background-color: #64abdb;
+    border-radius: 25px;
+    margin-top: 200px;
+    margin-left: 40%;
+    padding-top: 250px;
+    padding-bottom: 25px;
+    width: 390px;
+    position: fixed;
+}
+
+#input-login{
+    margin-top: -100px;
+}
+
+#diminuir{
+    margin-top: 3.5px;
+}
+
+.btn{
+    border-radius: 6px;
+    background-color: rgb(255, 255, 255);
+}
+
+.btn.login{
+    margin-top: 10px;
+    margin-bottom: -10px;
+    background-color: #2a80b9;
+    color: white;
+    font-weight: bolder;
+}
+
+#imagem{
+    width: 250px;
+    height: 250px;   
+    background: url('../../public/Imagens/logo.webp');
+    background-size: cover;
+    background-color: #64abdb;
+    margin-top: -220px;
+    margin-left: 70px;
+    margin-bottom: 25px;
+    border-radius: 7.5%;
+}
